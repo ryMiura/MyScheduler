@@ -1,0 +1,43 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$Copy" count="2" />
+      <entry action="$Delete" count="4" />
+      <entry action="$Paste" count="1" />
+      <entry action="$SelectAll" count="9" />
+      <entry action="$Undo" count="184" />
+      <entry action="Android.ExportProjectZip" count="1" />
+      <entry action="CleanGradleProject" count="5" />
+      <entry action="CloseProject" count="24" />
+      <entry action="CodeCompletion" count="6" />
+      <entry action="ConvertJavaToKotlin" count="1" />
+      <entry action="EditorBackSpace" count="1773" />
+      <entry action="EditorChooseLookupItem" count="579" />
+      <entry action="EditorChooseLookupItemReplace" count="2" />
+      <entry action="EditorCodeBlockEnd" count="2" />
+      <entry action="EditorCodeBlockStart" count="1" />
+      <entry action="EditorCopy" count="100" />
+      <entry action="EditorCut" count="28" />
+      <entry action="EditorDelete" count="1855" />
+      <entry action="EditorDeleteLine" count="58" />
+      <entry action="EditorDown" count="1395" />
+      <entry action="EditorDuplicate" count="58" />
+      <entry action="EditorEnter" count="468" />
+      <entry action="EditorLeft" count="1285" />
+      <entry action="EditorLineEnd" count="2" />
+      <entry action="EditorPaste" count="138" />
+      <entry action="EditorRight" count="1786" />
+      <entry action="EditorSplitLine" count="1" />
+      <entry action="EditorTab" count="42" />
+      <entry action="EditorToggleInsertState" count="2" />
+      <entry action="EditorUp" count="746" />
+      <entry action="GotoBookmark8" count="1" />
+      <entry action="GotoBookmark9" count="1" />
+      <entry action="HideActiveWindow" count="1" />
+      <entry action="HideAllWindows" count="4" />
+      <entry action="ImplementMethods" count="2" />
+      <entry action="NewClass" count="1" />
+      <entry action="NewProject" count="2" />
+      <entry action="OpenFile" count="5" />
+      <entry action="OverrideMethods" count="1" />
+      <entry action="RebuildGradleProje

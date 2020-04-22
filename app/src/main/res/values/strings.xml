@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">スケジューラ―</string>
+    <string name="tv_date">日付</string>
+    <string name="tv_title">タイトル</string>
+    <string name="tv_content">詳細</string>
+    <string name="bt_save">保存</string>
+    <string name="bt_delete">削除</string>
+</resources>
